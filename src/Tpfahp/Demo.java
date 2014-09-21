@@ -14,11 +14,7 @@ public class Demo extends AbstractDemo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		long startTime = System.currentTimeMillis();
-		(new Demo()).simulate(args);
-		long stopTime = System.currentTimeMillis();
-		long elapsedTime = stopTime - startTime;
-		System.out.println("\nTime elapsed:" + elapsedTime);			
+		(new Demo()).simulate(args);			
 	}
 
 	@Override
