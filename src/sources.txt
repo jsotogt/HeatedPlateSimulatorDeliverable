@@ -1,0 +1,13 @@
+./Tpdahp/Demo.java
+./Tpdahp/Tpdahp.java
+./edu/gatech/hp/HeatedPlateSimulator.java
+./edu/gatech/hp/AbstractDemo.java
+./Gallhp/Gallhp.java
+./Gallhp/Demo.java
+./Tpdohp/LatticePoint.java
+./Tpdohp/Tpdohp.java
+./Tpdohp/Demo.java
+./Twfahp/Demo.java
+./Twfahp/Twfahp.java
+./Tpfahp/Demo.java
+./Tpfahp/Tpfahp.java
